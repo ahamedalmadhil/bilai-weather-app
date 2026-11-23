@@ -22,3 +22,4 @@ Open `index.html` in a browser. For best results, use a local development server
 
 ## Weather data
 Uses the public Open-Meteo Forecast and Geocoding APIs. No API key is required. Weather data is provided by Open-Meteo.
+EEE5TV
